@@ -2,7 +2,7 @@ $fn = 30;
 
 zigarre_durchmesser = 20;
 zigarre_laenge = 140;
-anzahl_zigarren = 2;
+anzahl_zigarren = 3;
 wand_dicke_aussen = 2.6;
 wand_dicke_innen = 0.8;
 gap_oben_unten = 0.5;
